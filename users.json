@@ -1,0 +1,7 @@
+{
+  "<user>": {
+    "password_hash": "<sha256>",
+    "role": "admin"
+  }
+}
+
